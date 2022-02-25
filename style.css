@@ -1,0 +1,40 @@
+.images {
+    height: 300px;
+    width: 325px;
+}
+
+#copy_right {
+    color: gold;
+}
+
+body {
+    text-align: center;
+    background-color: deeppink;
+}
+
+#headings h1 {
+    color: red;
+    font-size: 30px;
+}
+
+#headings {
+    background-color: violet;
+}
+
+#headings p {
+    color: white;
+    font-size: 25px;
+}
+
+#copy_right_name {
+    background-color: blueviolet;
+    color: gold;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.ear {
+    width: 30%;
+    height: 300px;
+}
